@@ -4,9 +4,9 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     return """
-<html><head><meta name="monetag" content="c613ba3fbfec476cec0048d1a0ab2807"><meta name="viewport"
-content="width=device-width,initial-scale=1">
-<style>
+    <html><head><meta name="monetag" content="c613d1a0c9f3e2b4a5c6d7e8f9a0b1c2">
+<script src="https://quge5.com/88/tag.min.js" data-zone="281175" async data-cfasync="false"></script>
+<meta name="viewport" content="width=device-width,initial-scale=1">
 body{background:#0a0a0a;color:#fff;
 text-align:center;padding:20px}
 h1{color:#FFD700}
