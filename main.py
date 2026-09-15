@@ -4,7 +4,7 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     return """
-<html><head><meta name="viewport"
+<html><head><meta name="monetag" content="c613ba3fbfec476cec0048d1a0ab2807"><meta name="viewport"
 content="width=device-width,initial-scale=1">
 <style>
 body{background:#0a0a0a;color:#fff;
